@@ -1,0 +1,10 @@
+*{
+    background-color: black;
+    font-family: 'Courier New', Courier, monospace;
+    margin: auto;
+}
+
+h1 {
+    color: blue;
+    border: 1ch;
+}
