@@ -8,3 +8,8 @@ h1 {
     color: blue;
     border: 1ch;
 }
+
+p{
+    background-color: aqua;
+    font-weight: 900;
+}
