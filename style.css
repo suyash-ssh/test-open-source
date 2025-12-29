@@ -4,8 +4,10 @@
     margin: auto;
 }
 
-h1 {
+
+h2, h1 {
     color: blue;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     border: 1ch;
 }
 
