@@ -20,3 +20,7 @@ p{
     background-color: yellowgreen;
     font-size: larger;
 }
+#contact{
+    border-radius: 1rem;
+    border-color: cadetblue;
+}
