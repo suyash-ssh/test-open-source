@@ -4,7 +4,23 @@
     margin: auto;
 }
 
-h1 {
+
+h2, h1 {
     color: blue;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     border: 1ch;
+}
+
+p{
+    background-color: aqua;
+    font-weight: 900;
+}
+
+.home{
+    background-color: yellowgreen;
+    font-size: larger;
+}
+#contact{
+    border-radius: 1rem;
+    border-color: cadetblue;
 }
